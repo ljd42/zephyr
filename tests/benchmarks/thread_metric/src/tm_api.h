@@ -68,7 +68,7 @@ extern "C" {
 /* Define the time interval in seconds. This can be changed with a -D compiler option.  */
 
 #ifndef TM_TEST_DURATION
-#define TM_TEST_DURATION 30
+#define TM_TEST_DURATION 10
 #endif
 
 /*
